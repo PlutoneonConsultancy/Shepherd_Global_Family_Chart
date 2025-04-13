@@ -1,10 +1,10 @@
-<!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -135,7 +135,7 @@ Project Link: [https://github.com/PlutoneonConsultancy/Shepherd_Global_Family_Ch
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES 
 [contributors-shield]: https://github.com/PlutoneonConsultancy/Shepherd_Global_Family_Chart
 [contributors-url]: https://github.com/PlutoneonConsultancy/Shepherd_Global_Family_Chart
 [forks-shield]: https://github.com/PlutoneonConsultancy/Shepherd_Global_Family_Chart
@@ -151,5 +151,5 @@ Project Link: [https://github.com/PlutoneonConsultancy/Shepherd_Global_Family_Ch
 [product-screenshot]: https://github.com/user-attachments/assets/a4f8a9c0-c327-45fa-90bc-23d73578a304
 [product-basic-tree-screenshot]: https://github.com/user-attachments/assets/7e231e53-9230-49f9-ae93-8125096237dc
 [product-wiki-tree-screenshot]: https://github.com/user-attachments/assets/4e2dc169-4b43-46f3-b31c-db17f4d489da
-[create-tree-screenshot]: https://github.com/user-attachments/assets/ce5c4b33-48dd-441c-aa2f-f581b57ddcb7
+[create-tree-screenshot]: https://github.com/user-attachments/assets/ce5c4b33-48dd-441c-aa2f-f581b57ddcb7  -->
 
